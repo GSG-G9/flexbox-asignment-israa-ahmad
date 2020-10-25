@@ -1,0 +1,41 @@
+ *{
+     
+    font-family: Nunito Sans;
+    color:white;
+}
+
+
+#container{
+   
+    background-color: #544F53;
+   
+    display:flex;
+    justify-content:space-around;
+    align-items: flex-end;
+    
+}
+.city{
+padding:60px;
+width:250;
+height: 200px;
+
+}
+
+.image{
+ position: relative;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.t{
+    width:20px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    text-align: center;
+   color: white;
+    background-color: #AB1F83;
+} 
+
+
